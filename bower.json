@@ -1,0 +1,26 @@
+{
+  "name": "solar_cun",
+  "version": "0.0.1",
+  "authors": [
+    "Dawid Półchłopek <devilzaba@gmail.com>"
+  ],
+  "description": "Marta wisi mi 100 page",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-ui-router": "~0.2.15",
+    "bootstrap-sass-official": "3.2.0",
+    "underscore": "~1.8.3"
+  }
+}
